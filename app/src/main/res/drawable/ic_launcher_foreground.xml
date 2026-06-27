@@ -1,0 +1,89 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Corner Brackets / Viewfinder Frame -->
+    <path
+        android:strokeColor="#00E676"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M34,34 L28,34 A2,2 0 0,0 26,36 L26,42" />
+    <path
+        android:strokeColor="#00E676"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M74,34 L80,34 A2,2 0 0,1 82,36 L82,42" />
+    <path
+        android:strokeColor="#00E676"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M34,74 L28,74 A2,2 0 0,1 26,72 L26,66" />
+    <path
+        android:strokeColor="#00E676"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M74,74 L80,74 A2,2 0 0,0 82,72 L82,66" />
+
+    <!-- QR Code Finder Pattern: Top-Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,32 h12 v12 h-12 z M35,35 v6 h6 v-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,37 h2 v2 h-2 z" />
+
+    <!-- QR Code Finder Pattern: Top-Right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,32 h12 v12 h-12 z M67,35 v6 h6 v-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,37 h2 v2 h-2 z" />
+
+    <!-- QR Code Finder Pattern: Bottom-Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,64 h12 v12 h-12 z M35,67 v6 h6 v-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,69 h2 v2 h-2 z" />
+
+    <!-- QR Code random blocks and a red scanner line -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,32 h4 v4 h-4 z M56,32 h4 v4 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,40 h4 v4 h-4 z M56,40 h4 v4 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,48 h4 v4 h-4 z M72,48 h4 v4 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,56 h4 v4 h-4 z M56,56 h4 v4 h-4 z M64,56 h4 v4 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,48 h4 v4 h-4 z M40,48 h4 v4 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,56 h4 v4 h-4 z M40,56 h4 v4 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,64 h4 v4 h-4 z M56,64 h4 v4 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,72 h4 v4 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,64 h12 v12 h-12 z M67,67 v6 h6 v-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M69,69 h2 v2 h-2 z" />
+
+    <!-- Red scan laser light horizontal line -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M24,53 h60 v2.5 h-60 z" />
+</vector>

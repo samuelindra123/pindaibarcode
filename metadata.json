@@ -1,0 +1,6 @@
+{
+  "name": "Pindai Barcode",
+  "description": "Aplikasi pindai barcode & QR code super cepat, offline & online dengan pencarian langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
